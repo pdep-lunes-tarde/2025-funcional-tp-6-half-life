@@ -11,17 +11,13 @@
 
 ## Equipo
 
-- Nombre del grupo
+- Half-Life
 
-- Legajo: **Completar**
-- Nombre: **Completar**
+- Legajo: 2223065
+- Nombre: Ignacio Nicolas Fileppo
 
-- Legajo: **Completar**
-- Nombre: **Completar**
-
-- Legajo: **Completar**
-- Nombre: **Completar**
-
+- Legajo: 2096237
+- Nombre: David Alejandro Gomez Ferreira
 
 ## El enunciado
 
